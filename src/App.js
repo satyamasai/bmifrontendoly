@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
         <h1>Welcome to BMI calculator</h1>
-       <AllRoutes/>
+        <h1>trying to connect...</h1>
+        <AllRoutes/>
     </div>
   );
 }
